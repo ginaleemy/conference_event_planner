@@ -1,5 +1,4 @@
-# coding-project-template
+# Live URL
 
-URL: https://ginaleemy.github.io/conference_event_planner/
-
-Programming Language: React
+- URL: https://ginaleemy.github.io/conference_event_planner/
+- Programming Language: React
